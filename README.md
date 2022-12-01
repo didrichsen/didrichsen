@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @didrichsen
 - 👀 I’m curious and intersted in many things. 
 - 🌱 I’m currently studying for a bachelor's degree in programming. 
-- 💞️ I’m looking for whatever interests me.
+- 💞️ I’m looking for whatever interests me, but a summer intern would have been awesome!
 - 📫 You can reach me on simendidrichsen@gmail.com.
 
 <!---
