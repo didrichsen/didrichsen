@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @didrichsen
-- 👀 I’m curious, intersted in many things and willing to learn. 
-- 🌱 I’m currently studying for a bachelor's degree in programming. 
-- 💞️ I’m looking for whatever interests me, but a summer intern is high on my wishlist.
-- 📫 You can reach me @ simendidrichsen@gmail.com.
+# Hi, Hei, Hello! 🚀
+
+I enjoy exploring ideas, concepts, and technologies. Curious, passionate and drawn towards collaborative environments. 🌐💻✨
+
+---
+<p>
+  <img src="https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="Java" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/2c29ff7ea413e3999d1959480f5aa128bb5c0769ac41bb95ac15ef66196d1a38/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" alt="C#" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/16bbe3c62e06c0099a8bd86816b7993b3eb49d8cd21eb74c7bff7db7dc3787b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="Javascript" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" alt="Docker" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/2facb89b414f4beb89250ff00956b210e030d79c1c78489e555fc2921e158b8a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" alt="PostgresQL" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/5e956ea0943b5a05092e94d7376582051e61fe84af215ad6e35334a2d61b658a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" alt="MySQL" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/dd35b550eae97295faa3e2420c5d3ad49c5c451edac91201211b4486d55d0878/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" alt="Docker" width="50" height="50">  
+</p>
 
 <!---
 didrichsen/didrichsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
